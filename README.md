@@ -1,1 +1,1 @@
-# argocd
+# argocd - minikube -ngrok 
